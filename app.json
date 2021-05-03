@@ -1,0 +1,12 @@
+{
+  "name": "react_native_whatsapp_clone",
+  "displayName": "react_native_whatsapp_clone",
+  "expo": {
+    "name": "react_native_whatsapp_clone",
+    "slug": "react_native_whatsapp_clone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
