@@ -1,7 +1,7 @@
 import React from 'react';
-import { View, Text } from 'react-native';
-import Homepage from './pages/Homepage';
-import NavBar from './pages/NavBar';
+import { View } from 'react-native';
+import Homepage from './components/Homepage.js';
+import NavBar from './components/NavBar.js';
 
 export default function App() {
   return (
